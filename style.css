@@ -79,5 +79,17 @@ body{
         grid-template-columns: repeat(10,20px);
         margin: 2px;
     }
+    #logo{
+        position: absolute;
+        height:100px;
+    }
+    #instructions{
+        position: absolute;
+        top:60%;
+        width:200px;
+        text-align: center;
+        text-transform: capitalize;
+        /* margin: 0; */
+    }
 
 }
